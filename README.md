@@ -52,7 +52,7 @@ Run ```scripts/train_fusion_models.sh```
 If you found our work useful or use our dataset in any way, please cite our paper:
 
 ```
-@inproceedings{catruna2024gaitpt,
+@inproceedings{catruna2024crossgaze,
   title={CrossGaze: A Strong Method for 3D Gaze Estimation in the Wild},
   author={Catruna, Andy and Cosma, Adrian and Radoi, Emilian},
   booktitle={The 18th IEEE International Conference on Automatic Face and Gesture Recognition},
